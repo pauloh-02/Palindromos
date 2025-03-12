@@ -1,4 +1,3 @@
-
 const palavra = prompt("Escreva uma palavra")
 let palavrainvertida
 
